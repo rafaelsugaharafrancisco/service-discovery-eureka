@@ -2,7 +2,9 @@
 Exercicio de criação de microserviços com SpringCloud
 
 ## Objetivo
-Aprender a instalar um service discovery e fazer com que os microserviços se comuniquem entre si.
+Aprender a utilizar um service discovery.
+Os microsserviços são registrados no servidor central. Então, quando um microsserviço fizer uma requisição para outro, o service discovery infomará o endereço IP através do nome.
+Assim, para a requisição de um microsserviço não será necessário informar o IP e sim o nome da aplição registrada.
 
 ## Tecnologia utilizada:
  - Java 11;
