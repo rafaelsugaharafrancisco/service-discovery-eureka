@@ -8,4 +8,4 @@ Assim, para a requisição de um microsserviço não será necessário informar 
 
 ## Tecnologia utilizada:
  - Java 11;
- - Eureka (service discovery)
+ - Eureka server
